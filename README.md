@@ -1,0 +1,2 @@
+# Diplomatura_en_Ciencia_de_Datos_Aprendizaje_Automatico_y-_sus_Aplicaciones_FAMAF_UNC
+Trabajos realizados en la Diplomatura en Ciencias de Datos Aprendizaje Automático y sus Aplicaciones dictada en FAMAF UNC. Las materias son las siguientes: Análisis y Visualización de datos, Exploración y Curación de datos, Introducción al Machine Learning, Aprendizaje Automático, Deep Learning, Procesamiento de imágenes y Análisis de Grafos
